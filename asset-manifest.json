@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rohitjain8/todo_.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/rohitjain8/todo_.git/static/js/main.a820c59f.chunk.js",
-    "main.js.map": "/rohitjain8/todo_.git/static/js/main.a820c59f.chunk.js.map",
-    "runtime-main.js": "/rohitjain8/todo_.git/static/js/runtime-main.9b920f5e.js",
-    "runtime-main.js.map": "/rohitjain8/todo_.git/static/js/runtime-main.9b920f5e.js.map",
-    "static/js/2.79657e31.chunk.js": "/rohitjain8/todo_.git/static/js/2.79657e31.chunk.js",
-    "static/js/2.79657e31.chunk.js.map": "/rohitjain8/todo_.git/static/js/2.79657e31.chunk.js.map",
-    "static/js/3.e0bfa9fe.chunk.js": "/rohitjain8/todo_.git/static/js/3.e0bfa9fe.chunk.js",
-    "static/js/3.e0bfa9fe.chunk.js.map": "/rohitjain8/todo_.git/static/js/3.e0bfa9fe.chunk.js.map",
-    "index.html": "/rohitjain8/todo_.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/rohitjain8/todo_.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.79657e31.chunk.js.LICENSE.txt": "/rohitjain8/todo_.git/static/js/2.79657e31.chunk.js.LICENSE.txt"
+    "main.css": "/rohitjain8/to_do.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rohitjain8/to_do.git/static/js/main.a820c59f.chunk.js",
+    "main.js.map": "/rohitjain8/to_do.git/static/js/main.a820c59f.chunk.js.map",
+    "runtime-main.js": "/rohitjain8/to_do.git/static/js/runtime-main.515111cb.js",
+    "runtime-main.js.map": "/rohitjain8/to_do.git/static/js/runtime-main.515111cb.js.map",
+    "static/js/2.79657e31.chunk.js": "/rohitjain8/to_do.git/static/js/2.79657e31.chunk.js",
+    "static/js/2.79657e31.chunk.js.map": "/rohitjain8/to_do.git/static/js/2.79657e31.chunk.js.map",
+    "static/js/3.e0bfa9fe.chunk.js": "/rohitjain8/to_do.git/static/js/3.e0bfa9fe.chunk.js",
+    "static/js/3.e0bfa9fe.chunk.js.map": "/rohitjain8/to_do.git/static/js/3.e0bfa9fe.chunk.js.map",
+    "index.html": "/rohitjain8/to_do.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rohitjain8/to_do.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.79657e31.chunk.js.LICENSE.txt": "/rohitjain8/to_do.git/static/js/2.79657e31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b920f5e.js",
+    "static/js/runtime-main.515111cb.js",
     "static/js/2.79657e31.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.a820c59f.chunk.js"
